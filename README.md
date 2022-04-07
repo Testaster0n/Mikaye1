@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mikaye1
+- 👋 Hi, I’m @Mikayel
 - 👀 I’m interested in working on creative projects
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ideas that I have
